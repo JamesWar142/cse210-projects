@@ -22,6 +22,6 @@ class Program
         if (grade >= 70)
         { Console.WriteLine("Congratulations on Passing!"); }
         else
-        { Console.WriteLine("You will pass next time."); }
+        { Console.WriteLine("You will pass next time!"); }
     }
 }
